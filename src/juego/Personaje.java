@@ -36,7 +36,7 @@ public class Personaje extends Elemento{
 				// TODO Auto-generated method stub
 				System.out.println("Personaje "+"Posición" + this.posicionX + "," + this.posicionY);
 			}
-
-		
+			
+			
 
 }

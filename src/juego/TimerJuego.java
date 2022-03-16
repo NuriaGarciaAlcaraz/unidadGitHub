@@ -9,8 +9,7 @@ public class TimerJuego extends TimerTask {
       this.consola = consola;     
     }
     public void run() {
-       //Método que será ejecutado cada 200 milisegundos
-      // Para cancelar el timer podéis utilizar: "cancel();" 
+      
     
     } 
 
